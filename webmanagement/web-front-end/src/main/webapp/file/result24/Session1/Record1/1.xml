@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ANNOTATION_DOCUMENT FORMAT="2.6">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="audio.mp3" MIME_TYPE="audio/mpeg"/>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="TS1" TIME_VALUE="2760"/>
+        <TIME_SLOT TIME_SLOT_ID="TS2" TIME_VALUE="7860"/>
+        <TIME_SLOT TIME_SLOT_ID="TS3" TIME_VALUE="7890"/>
+        <TIME_SLOT TIME_SLOT_ID="TS4" TIME_VALUE="8130"/>
+        <TIME_SLOT TIME_SLOT_ID="TS5" TIME_VALUE="8160"/>
+        <TIME_SLOT TIME_SLOT_ID="TS6" TIME_VALUE="8400"/>
+        <TIME_SLOT TIME_SLOT_ID="TS7" TIME_VALUE="8400"/>
+        <TIME_SLOT TIME_SLOT_ID="TS8" TIME_VALUE="15380"/>
+        <TIME_SLOT TIME_SLOT_ID="TS9" TIME_VALUE="15500"/>
+        <TIME_SLOT TIME_SLOT_ID="TS10" TIME_VALUE="19260"/>
+        <TIME_SLOT TIME_SLOT_ID="TS11" TIME_VALUE="19580"/>
+        <TIME_SLOT TIME_SLOT_ID="TS12" TIME_VALUE="19780"/>
+        <TIME_SLOT TIME_SLOT_ID="TS13" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="TS14" TIME_VALUE="20130"/>
+        <TIME_SLOT TIME_SLOT_ID="TS15" TIME_VALUE="20790"/>
+        <TIME_SLOT TIME_SLOT_ID="TS16" TIME_VALUE="22740"/>
+        <TIME_SLOT TIME_SLOT_ID="TS17" TIME_VALUE="23700"/>
+        <TIME_SLOT TIME_SLOT_ID="TS18" TIME_VALUE="30990"/>
+        <TIME_SLOT TIME_SLOT_ID="TS19" TIME_VALUE="31020"/>
+        <TIME_SLOT TIME_SLOT_ID="TS20" TIME_VALUE="33240"/>
+        <TIME_SLOT TIME_SLOT_ID="TS21" TIME_VALUE="33270"/>
+        <TIME_SLOT TIME_SLOT_ID="TS22" TIME_VALUE="49130"/>
+        <TIME_SLOT TIME_SLOT_ID="TS23" TIME_VALUE="49180"/>
+        <TIME_SLOT TIME_SLOT_ID="TS24" TIME_VALUE="51250"/>
+        <TIME_SLOT TIME_SLOT_ID="TS25" TIME_VALUE="51270"/>
+        <TIME_SLOT TIME_SLOT_ID="TS26" TIME_VALUE="53710"/>
+        <TIME_SLOT TIME_SLOT_ID="TS27" TIME_VALUE="53710"/>
+        <TIME_SLOT TIME_SLOT_ID="TS28" TIME_VALUE="53950"/>
+        <TIME_SLOT TIME_SLOT_ID="TS29" TIME_VALUE="53950"/>
+        <TIME_SLOT TIME_SLOT_ID="TS30" TIME_VALUE="54210"/>
+        <TIME_SLOT TIME_SLOT_ID="TS31" TIME_VALUE="54280"/>
+        <TIME_SLOT TIME_SLOT_ID="TS32" TIME_VALUE="54850"/>
+        <TIME_SLOT TIME_SLOT_ID="TS33" TIME_VALUE="54850"/>
+        <TIME_SLOT TIME_SLOT_ID="TS34" TIME_VALUE="68600"/>
+        <TIME_SLOT TIME_SLOT_ID="TS35" TIME_VALUE="68630"/>
+        <TIME_SLOT TIME_SLOT_ID="TS36" TIME_VALUE="70910"/>
+        <TIME_SLOT TIME_SLOT_ID="TS37" TIME_VALUE="71970"/>
+        <TIME_SLOT TIME_SLOT_ID="TS38" TIME_VALUE="73160"/>
+        <TIME_SLOT TIME_SLOT_ID="TS39" TIME_VALUE="73190"/>
+        <TIME_SLOT TIME_SLOT_ID="TS40" TIME_VALUE="81770"/>
+        <TIME_SLOT TIME_SLOT_ID="TS41" TIME_VALUE="81800"/>
+        <TIME_SLOT TIME_SLOT_ID="TS42" TIME_VALUE="82430"/>
+        <TIME_SLOT TIME_SLOT_ID="TS43" TIME_VALUE="82490"/>
+        <TIME_SLOT TIME_SLOT_ID="TS44" TIME_VALUE="93530"/>
+        <TIME_SLOT TIME_SLOT_ID="TS45" TIME_VALUE="95890"/>
+        <TIME_SLOT TIME_SLOT_ID="TS46" TIME_VALUE="98800"/>
+        <TIME_SLOT TIME_SLOT_ID="TS47" TIME_VALUE="98800"/>
+        <TIME_SLOT TIME_SLOT_ID="TS48" TIME_VALUE="107410"/>
+        <TIME_SLOT TIME_SLOT_ID="TS49" TIME_VALUE="107440"/>
+        <TIME_SLOT TIME_SLOT_ID="TS50" TIME_VALUE="115900"/>
+        <TIME_SLOT TIME_SLOT_ID="TS51" TIME_VALUE="115900"/>
+        <TIME_SLOT TIME_SLOT_ID="TS52" TIME_VALUE="123910"/>
+        <TIME_SLOT TIME_SLOT_ID="TS53" TIME_VALUE="123910"/>
+        <TIME_SLOT TIME_SLOT_ID="TS54" TIME_VALUE="124210"/>
+        <TIME_SLOT TIME_SLOT_ID="TS55" TIME_VALUE="124240"/>
+        <TIME_SLOT TIME_SLOT_ID="TS56" TIME_VALUE="127670"/>
+        <TIME_SLOT TIME_SLOT_ID="TS57" TIME_VALUE="128440"/>
+        <TIME_SLOT TIME_SLOT_ID="TS58" TIME_VALUE="149190"/>
+        <TIME_SLOT TIME_SLOT_ID="TS59" TIME_VALUE="157180"/>
+        <TIME_SLOT TIME_SLOT_ID="TS60" TIME_VALUE="162240"/>
+        <TIME_SLOT TIME_SLOT_ID="TS61" TIME_VALUE="162530"/>
+        <TIME_SLOT TIME_SLOT_ID="TS62" TIME_VALUE="228880"/>
+        <TIME_SLOT TIME_SLOT_ID="TS63" TIME_VALUE="229540"/>
+        <TIME_SLOT TIME_SLOT_ID="TS64" TIME_VALUE="240250"/>
+        <TIME_SLOT TIME_SLOT_ID="TS65" TIME_VALUE="240430"/>
+        <TIME_SLOT TIME_SLOT_ID="TS66" TIME_VALUE="241000"/>
+        <TIME_SLOT TIME_SLOT_ID="TS67" TIME_VALUE="241690"/>
+        <TIME_SLOT TIME_SLOT_ID="TS68" TIME_VALUE="272070"/>
+        <TIME_SLOT TIME_SLOT_ID="TS69" TIME_VALUE="272100"/>
+        <TIME_SLOT TIME_SLOT_ID="TS70" TIME_VALUE="274800"/>
+        <TIME_SLOT TIME_SLOT_ID="TS71" TIME_VALUE="275640"/>
+        <TIME_SLOT TIME_SLOT_ID="TS72" TIME_VALUE="279210"/>
+        <TIME_SLOT TIME_SLOT_ID="TS73" TIME_VALUE="279240"/>
+        <TIME_SLOT TIME_SLOT_ID="TS74" TIME_VALUE="279780"/>
+        <TIME_SLOT TIME_SLOT_ID="TS75" TIME_VALUE="281010"/>
+        <TIME_SLOT TIME_SLOT_ID="TS76" TIME_VALUE="289840"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="vi" LINGUISTIC_TYPE_REF="EDU" TIER_ID="EDU">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU1" TIME_SLOT_REF1="TS1" TIME_SLOT_REF2="TS2">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU2" TIME_SLOT_REF1="TS3" TIME_SLOT_REF2="TS4">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU3" TIME_SLOT_REF1="TS5" TIME_SLOT_REF2="TS6">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU4" TIME_SLOT_REF1="TS7" TIME_SLOT_REF2="TS8">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU5" TIME_SLOT_REF1="TS9" TIME_SLOT_REF2="TS10">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU6" TIME_SLOT_REF1="TS11" TIME_SLOT_REF2="TS12">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU7" TIME_SLOT_REF1="TS13" TIME_SLOT_REF2="TS14">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU8" TIME_SLOT_REF1="TS15" TIME_SLOT_REF2="TS16">
+                <ANNOTATION_VALUE>8</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU9" TIME_SLOT_REF1="TS17" TIME_SLOT_REF2="TS18">
+                <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU10" TIME_SLOT_REF1="TS19" TIME_SLOT_REF2="TS20">
+                <ANNOTATION_VALUE>10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU11" TIME_SLOT_REF1="TS21" TIME_SLOT_REF2="TS22">
+                <ANNOTATION_VALUE>11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU12" TIME_SLOT_REF1="TS23" TIME_SLOT_REF2="TS24">
+                <ANNOTATION_VALUE>12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU13" TIME_SLOT_REF1="TS25" TIME_SLOT_REF2="TS26">
+                <ANNOTATION_VALUE>13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU14" TIME_SLOT_REF1="TS27" TIME_SLOT_REF2="TS28">
+                <ANNOTATION_VALUE>14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU15" TIME_SLOT_REF1="TS29" TIME_SLOT_REF2="TS30">
+                <ANNOTATION_VALUE>15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU16" TIME_SLOT_REF1="TS31" TIME_SLOT_REF2="TS32">
+                <ANNOTATION_VALUE>16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU17" TIME_SLOT_REF1="TS33" TIME_SLOT_REF2="TS34">
+                <ANNOTATION_VALUE>17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU18" TIME_SLOT_REF1="TS35" TIME_SLOT_REF2="TS36">
+                <ANNOTATION_VALUE>18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU19" TIME_SLOT_REF1="TS37" TIME_SLOT_REF2="TS38">
+                <ANNOTATION_VALUE>19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU20" TIME_SLOT_REF1="TS39" TIME_SLOT_REF2="TS40">
+                <ANNOTATION_VALUE>20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU21" TIME_SLOT_REF1="TS41" TIME_SLOT_REF2="TS42">
+                <ANNOTATION_VALUE>21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU22" TIME_SLOT_REF1="TS43" TIME_SLOT_REF2="TS44">
+                <ANNOTATION_VALUE>22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU23" TIME_SLOT_REF1="TS45" TIME_SLOT_REF2="TS46">
+                <ANNOTATION_VALUE>23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU24" TIME_SLOT_REF1="TS47" TIME_SLOT_REF2="TS48">
+                <ANNOTATION_VALUE>24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU25" TIME_SLOT_REF1="TS49" TIME_SLOT_REF2="TS50">
+                <ANNOTATION_VALUE>25</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU26" TIME_SLOT_REF1="TS51" TIME_SLOT_REF2="TS52">
+                <ANNOTATION_VALUE>26</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU27" TIME_SLOT_REF1="TS53" TIME_SLOT_REF2="TS54">
+                <ANNOTATION_VALUE>27</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU28" TIME_SLOT_REF1="TS55" TIME_SLOT_REF2="TS56">
+                <ANNOTATION_VALUE>28</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU29" TIME_SLOT_REF1="TS57" TIME_SLOT_REF2="TS58">
+                <ANNOTATION_VALUE>29</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU30" TIME_SLOT_REF1="TS59" TIME_SLOT_REF2="TS60">
+                <ANNOTATION_VALUE>30</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU31" TIME_SLOT_REF1="TS61" TIME_SLOT_REF2="TS62">
+                <ANNOTATION_VALUE>31</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU32" TIME_SLOT_REF1="TS63" TIME_SLOT_REF2="TS64">
+                <ANNOTATION_VALUE>32</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU33" TIME_SLOT_REF1="TS65" TIME_SLOT_REF2="TS66">
+                <ANNOTATION_VALUE>33</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU34" TIME_SLOT_REF1="TS67" TIME_SLOT_REF2="TS68">
+                <ANNOTATION_VALUE>34</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU35" TIME_SLOT_REF1="TS69" TIME_SLOT_REF2="TS70">
+                <ANNOTATION_VALUE>35</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU36" TIME_SLOT_REF1="TS71" TIME_SLOT_REF2="TS72">
+                <ANNOTATION_VALUE>36</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU37" TIME_SLOT_REF1="TS73" TIME_SLOT_REF2="TS74">
+                <ANNOTATION_VALUE>37</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="EDU38" TIME_SLOT_REF1="TS75" TIME_SLOT_REF2="TS76">
+                <ANNOTATION_VALUE>38</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="vi" LINGUISTIC_TYPE_REF="EDUProp" PARENT_REF="EDU" TIER_ID="Text">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT1" ANNOTATION_REF="EDU1">
+                <ANNOTATION_VALUE>Đây là dữ liệu XML bác Trung
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT2" ANNOTATION_REF="EDU2">
+                <ANNOTATION_VALUE>ban,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT3" ANNOTATION_REF="EDU3">
+                <ANNOTATION_VALUE>ngành,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT4" ANNOTATION_REF="EDU4">
+                <ANNOTATION_VALUE>thành phố thực hiện Quy chế và làm việc của Ubnd thành phố hôm nay,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT5" ANNOTATION_REF="EDU5">
+                <ANNOTATION_VALUE>Ubnd thành phố Hà Nội trước Hội nghị lãnh đạo Sở,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT6" ANNOTATION_REF="EDU6">
+                <ANNOTATION_VALUE>ban,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT7" ANNOTATION_REF="EDU7">
+                <ANNOTATION_VALUE>ngành,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT8" ANNOTATION_REF="EDU8">
+                <ANNOTATION_VALUE>địa phương 8 tháng 1 năm 07.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT9" ANNOTATION_REF="EDU9">
+                <ANNOTATION_VALUE>Chủ trì Hội nghị trân trọng giới thiệu chung về Uỷ viên Ban Chấp hành Trung ương
+                    Đảng,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT10" ANNOTATION_REF="EDU10">
+                <ANNOTATION_VALUE>Chủ tịch Ubnd thành phố Tháp Tùng,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT11" ANNOTATION_REF="EDU11">
+                <ANNOTATION_VALUE>nay xin trân trọng giới thiệu đồng chí Phó Chủ tịch Ubnd thành phố Đồng chí Phó Chủ
+                    tịch Ngô Văn Quý tham gia Đoàn công tác Phó Bí thư Thành uỷ làm việc tại Hà Nội đồng chí Phó Chủ
+                    tịch Lê Hồng Sơn Vừa Tết trồng cây tại tỉnh Vĩnh Phúc.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT12" ANNOTATION_REF="EDU12">
+                <ANNOTATION_VALUE>Các đồng chí Giám đốc Sở,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT13" ANNOTATION_REF="EDU13">
+                <ANNOTATION_VALUE>Thủ trưởng Thủ trưởng các sở,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT14" ANNOTATION_REF="EDU14">
+                <ANNOTATION_VALUE>ban,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT15" ANNOTATION_REF="EDU15">
+                <ANNOTATION_VALUE>ngành,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT16" ANNOTATION_REF="EDU16">
+                <ANNOTATION_VALUE>thành phố,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT17" ANNOTATION_REF="EDU17">
+                <ANNOTATION_VALUE>đồng chí Tô Văn Động Tham gia Đoàn công tác đồng chí Bí thư Thành uỷ tại việc Liên
+                    đoàn Văn phòng Ubnd thành phố đồng chí các đồng chí Hội đồng quản trị,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT18" ANNOTATION_REF="EDU18">
+                <ANNOTATION_VALUE>Tổng Giám đốc Công ty của thành phố,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT19" ANNOTATION_REF="EDU19">
+                <ANNOTATION_VALUE>Tcty thuộc Hà Nội,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT20" ANNOTATION_REF="EDU20">
+                <ANNOTATION_VALUE>đại diện cho Trung ương và thành phố tới dự hội nghị Văn phòng Ubnd thành phố Hà Nội
+                    báo cáo chương trình Hội nghị như sau.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT21" ANNOTATION_REF="EDU21">
+                <ANNOTATION_VALUE>Thứ nhất,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT22" ANNOTATION_REF="EDU22">
+                <ANNOTATION_VALUE>đồng chí Giám đốc Sở và đồng chí Giám đốc Sở Kế hoạch và Đầu tư trình bày báo cáo kinh
+                    tế xã hội tháng 1 năm 2007,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT23" ANNOTATION_REF="EDU23">
+                <ANNOTATION_VALUE>nhiệm vụ trọng tâm tháng 2 năm 1007 tiếp theo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT24" ANNOTATION_REF="EDU24">
+                <ANNOTATION_VALUE>Đồng chí Chánh Văn phòng Uỷ ban nhân dân thành phố báo cáo kết quả thực hiện nhiệm vụ
+                    chỉ đạo,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT25" ANNOTATION_REF="EDU25">
+                <ANNOTATION_VALUE>điều hành Uỷ Ban Nhân Dân Thành Phố Tháng 1 Năm 2007 và một số nhiệm vụ trọng tâm
+                    trong tháng 22007 tiếp theo.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT26" ANNOTATION_REF="EDU26">
+                <ANNOTATION_VALUE>Đồng chí Chủ tịch Ubnd thành phố chủ trì phần phần tham luận xin ý kiến của các sở,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT27" ANNOTATION_REF="EDU27">
+                <ANNOTATION_VALUE>ban,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT28" ANNOTATION_REF="EDU28">
+                <ANNOTATION_VALUE>ngành và các đồng chí Phó Chủ tịch Ubnd thành phố kết luận.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT29" ANNOTATION_REF="EDU29">
+                <ANNOTATION_VALUE>Xin trân trọng kính mời Chủ tịch Ubnd thành phố chủ trì hội nghị đối với bể nước do Uỷ
+                    ban Tài trợ đến hết năm 2016.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT30" ANNOTATION_REF="EDU30">
+                <ANNOTATION_VALUE>Thời tiết thời tiết năm nay tương đối thuận lợi không có rét đậm rét hại.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT31" ANNOTATION_REF="EDU31">
+                <ANNOTATION_VALUE>3 D tốt diện tích cấy vụ xuân đến nay là 15 % một số giấy ăn phía Bắc như phương Tây
+                    Ba vì ba lăm phần % thứ hai về tưới nước đổ ải thì đến nay toàn bộ diện tích tưới nước đạt 60 % đến
+                    0 h sáng ngày hôm nay đã mở ra hoặc 3 đợt tập trung khoảng 56 ngày là đủ nước để gieo cấy vụ xuân
+                    rồi rồi rồi sợ tóc sang một đại biểu khác nói tiếp đi đến đoạn sau thì đại biểu Nam nói tiếp về nuôi
+                    biến nuôi của nó là phương pháp làm trắng da gia tác làm công tác đang rao bán iphone 5 c và tay
+                    chân miệng 202016 đã xây dựng song 6 chặng đua tràn ở Mê Linh đang cập nhật công nghệ năm 2017.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT32" ANNOTATION_REF="EDU32">
+                <ANNOTATION_VALUE>Tổ chức nghiệm thu xong các trạm đã xây dựng xong thì hệ thống công trình đầu mối hệ
+                    thống ống dẫn và đặc biệt sử dụng nước tốt.
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT33" ANNOTATION_REF="EDU33">
+                <ANNOTATION_VALUE>Tuy nhiên,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT34" ANNOTATION_REF="EDU34">
+                <ANNOTATION_VALUE>việc sử dụng nước sạch cho thành tập quán việc đấu nối vào nhà tên con trai thứ hai là
+                    dự án rau sạch Việt thứ hai lần việc này thành phố đã giao cho cấp huyện thực hiện Sở Sở chỉ tham
+                    gia ý kiến về chuyên ngành toàn bộ hạ tầng vùng rau là thành phố chợ cấp huyện làm chủ đầu tư sở
+                    tham gia ý kiến theo thiết kế của cơ sở các dự án trong các dự án thành phố hỗ trợ hạ tầng vùng thuỷ
+                    lợi,
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT35" ANNOTATION_REF="EDU35">
+                <ANNOTATION_VALUE>giao thông để phục vụ cho hạ tầng sản xuất rau của thành phố.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT36" ANNOTATION_REF="EDU36">
+                <ANNOTATION_VALUE>Qua khảo sát thấy cùng Hạo Tùng do được đầu tư rất lớn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT37" ANNOTATION_REF="EDU37">
+                <ANNOTATION_VALUE>Tuy nhiên,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="TEXT38" ANNOTATION_REF="EDU38">
+                <ANNOTATION_VALUE>sản xuất hiệu quả không cao sở ta nên tập trung vào hỗ trợ giống và hỗ trợ nông nghiệp
+                    công nghệ cao bao gồm nhà lưới nhà kính hệ thống tưới
+                </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="vi" LINGUISTIC_TYPE_REF="EDUProp" PARENT_REF="EDU" TIER_ID="Comments">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT1" ANNOTATION_REF="EDU1">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT2" ANNOTATION_REF="EDU2">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT3" ANNOTATION_REF="EDU3">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT4" ANNOTATION_REF="EDU4">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT5" ANNOTATION_REF="EDU5">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT6" ANNOTATION_REF="EDU6">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT7" ANNOTATION_REF="EDU7">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT8" ANNOTATION_REF="EDU8">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT9" ANNOTATION_REF="EDU9">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT10" ANNOTATION_REF="EDU10">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT11" ANNOTATION_REF="EDU11">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT12" ANNOTATION_REF="EDU12">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT13" ANNOTATION_REF="EDU13">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT14" ANNOTATION_REF="EDU14">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT15" ANNOTATION_REF="EDU15">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT16" ANNOTATION_REF="EDU16">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT17" ANNOTATION_REF="EDU17">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT18" ANNOTATION_REF="EDU18">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT19" ANNOTATION_REF="EDU19">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT20" ANNOTATION_REF="EDU20">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT21" ANNOTATION_REF="EDU21">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT22" ANNOTATION_REF="EDU22">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT23" ANNOTATION_REF="EDU23">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT24" ANNOTATION_REF="EDU24">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT25" ANNOTATION_REF="EDU25">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT26" ANNOTATION_REF="EDU26">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT27" ANNOTATION_REF="EDU27">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT28" ANNOTATION_REF="EDU28">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT29" ANNOTATION_REF="EDU29">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT30" ANNOTATION_REF="EDU30">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT31" ANNOTATION_REF="EDU31">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT32" ANNOTATION_REF="EDU32">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT33" ANNOTATION_REF="EDU33">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT34" ANNOTATION_REF="EDU34">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT35" ANNOTATION_REF="EDU35">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT36" ANNOTATION_REF="EDU36">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT37" ANNOTATION_REF="EDU37">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="COMMENT38" ANNOTATION_REF="EDU38">
+                <ANNOTATION_VALUE>Nghia ne!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+</ANNOTATION_DOCUMENT>

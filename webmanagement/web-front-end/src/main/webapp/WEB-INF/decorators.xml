@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<decorators defaultdir="/decorators">
+    <!-- Any urls that are excluded will never be decorated by Sitemesh -->
+    <excludes>
+        <pattern>/ajax*</pattern>
+    </excludes>
+
+    <decorator name="login" page="login.jsp">
+        <pattern>/login*</pattern>
+    </decorator>
+
+    <decorator name="home" page="home.jsp">
+        <pattern>/home*</pattern>
+    </decorator>
+
+    <decorator name="manager" page="manager.jsp">
+        <pattern>/manager*</pattern>
+    </decorator>
+
+    <decorator name="create" page="manager.jsp">
+        <pattern>/create*</pattern>
+    </decorator>
+
+    <decorator name="info" page="manager.jsp">
+        <pattern>/info*</pattern>
+    </decorator>
+
+    <decorator name="report" page="manager.jsp">
+        <pattern>/report*</pattern>
+    </decorator>
+
+    <decorator name="setting" page="setting.jsp">
+        <pattern>/setting*</pattern>
+    </decorator>
+
+    <decorator name="personal-information" page="personal-information.jsp">
+        <pattern>/personal-information*</pattern>
+    </decorator>
+
+    <decorator name="manager-word" page="manager.jsp">
+        <pattern>/word-manager*</pattern>
+    </decorator>
+
+    <decorator name="log" page="log.jsp">
+        <pattern>/history*</pattern>
+    </decorator>
+
+    <decorator name="dict-history" page="log.jsp">
+        <pattern>/dict-history*</pattern>
+    </decorator>
+
+    <decorator name="dict-person-history" page="log.jsp">
+        <pattern>/dict-person-history*</pattern>
+    </decorator>
+
+    <decorator name="typing-shorthand" page="shorthand.jsp">
+        <pattern>/typing*</pattern>
+    </decorator>
+
+    <decorator name="steno-convert" page="steno.jsp">
+        <pattern>/steno*</pattern>
+    </decorator>
+
+
+</decorators>

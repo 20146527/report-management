@@ -1,0 +1,70 @@
+<table style="width: 796px;">
+ <tbody>
+ <tr>
+ <td style="width: 281px;">
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"><strong>CƠ QUAN, ĐƠN VỊ&hellip;.<br /></strong>--------</span></p>
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;">Số: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></p>
+ </td>
+ <td style="width: 508px;">
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"><strong>CỘNG H&Ograve;A X&Atilde; HỘI CHỦ NGHĨA VIỆT NAM<br />Độc lập - Tự do - Hạnh ph&uacute;c <br /></strong>---------------</span></p>
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"><em>&hellip;&hellip;&hellip;, ng&agrave;y &hellip;&hellip; th&aacute;ng &hellip;&hellip; năm &hellip;&hellip;</em></span></p>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"><strong>BI&Ecirc;N BẢN HỌP</strong></span></p>
+ <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"><em>Về việc <sup>(1)</sup>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..&hellip;&hellip;&hellip;..</em></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">H&ocirc;m nay, v&agrave;o l&uacute;c &hellip;.&hellip; giờ &hellip;&hellip; ng&agrave;y &hellip;.. th&aacute;ng &hellip;.. năm &hellip;..</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">Tại <sup>(2)</sup>.<span class="template4" style="background-color: #bdc3c7;">Địa điểm họp</span></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">Diễn ra cuộc họp với nội dung <sup>(3)</sup>&hellip;<span class="template5" style="background-color: #bdc3c7;">Chủ đề họp</span></span><span style="font-family: 'times new roman', times, serif;">&hellip;..</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>I. Th&agrave;nh phần tham dự:</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">1. Chủ tr&igrave; <sup>(4)</sup>: &Ocirc;ng/B&agrave; &hellip;<span class="template1" style="background-color: #bdc3c7;">Chủ tr&igrave; cuộc họp</span></span><span style="font-family: 'times new roman', times, serif;">. Chức vụ: &hellip;..&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">2. Thư k&yacute; <sup>(5)</sup>: &Ocirc;ng/B&agrave; &hellip;<span class="template2" style="background-color: #bdc3c7;">Thư k&yacute; cuộc họp</span></span><span style="font-family: 'times new roman', times, serif;">&hellip; Chức vụ: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">3. Th&agrave;nh phần kh&aacute;c <sup>(6)</sup>:</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;....</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>II. Nội dung cuộc họp:</strong> <sup>(7)</sup></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><span class="template7" style="background-color: #bdc3c7;">Nội dung họp</span></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>III. Biểu quyết (nếu c&oacute;):</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">- Tổng số phiếu: &hellip;&hellip;&hellip;&hellip;. Phiếu</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">- Số phiếu t&aacute;n th&agrave;nh: &hellip;&hellip;&hellip; phiếu, chiếm &hellip;&hellip; %</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">- Số phiếu kh&ocirc;ng t&aacute;n th&agrave;nh: &hellip;&hellip;&hellip;... phiếu, chiếm &hellip;&hellip; %</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>IV. Kết luận cuộc họp <sup>(8)</sup>:</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">Cuộc họp kết th&uacute;c v&agrave;o l&uacute;c &hellip;.. giờ &hellip;.. ng&agrave;y &hellip;. th&aacute;ng &hellip;.. năm &hellip;&hellip;, nội dung cuộc họp đ&atilde; được c&aacute;c th&agrave;nh vi&ecirc;n dự họp th&ocirc;ng qua v&agrave; c&ugrave;ng k&yacute; v&agrave;o bi&ecirc;n bản.</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">Bi&ecirc;n bản được c&aacute;c th&agrave;nh vi&ecirc;n nhất tr&iacute; th&ocirc;ng qua v&agrave; c&oacute; hiệu lực kể từ ng&agrave;y k&yacute;./.</span></p>
+ <table style="width: 794px;">
+ <tbody>
+ <tr>
+ <td style="width: 379px; text-align: center;">
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>THƯ K&Yacute;</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em>(K&yacute;, ghi r&otilde; họ t&ecirc;n)</em></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em><span class="template2" style="background-color: #bdc3c7;">Thư k&yacute; cuộc họp</span></em></span></p>
+ </td>
+ <td style="width: 408px; text-align: center;">
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>CHỦ TỌA</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em>(K&yacute;, ghi r&otilde; họ t&ecirc;n)</em></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em><span class="template1" style="background-color: #bdc3c7;">Chủ tr&igrave; cuộc họp</span></em></span></p>
+ </td>
+ </tr>
+ <tr>
+ <td style="width: 790px; text-align: center;" colspan="2">
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>C&Aacute;C TH&Agrave;NH VI&Ecirc;N KH&Aacute;C</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em>(K&yacute;, ghi r&otilde; họ t&ecirc;n)</em></span></p>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ <p>&nbsp;</p>
+ <p><span style="font-family: 'times new roman', times, serif;"><strong>Hướng dẫn ghi Bi&ecirc;n bản cuộc họp 2019</strong></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(1) (3) Chủ đề, ti&ecirc;u điểm ch&iacute;nh của cuộc họp</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;"><em>V&iacute; dụ: B&igrave;nh x&eacute;t thi đua khen thưởng năm 2018, Giao ban th&aacute;ng 3/2019,&hellip;</em></span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(2) Bộ phận, cơ quan, đơn vị, doanh nghiệp tổ chức cuộc họp.</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(4) Người chủ tr&igrave;: Người đưa ra c&aacute;c vấn đề ch&iacute;nh, hướng xử l&yacute; hoặc tổng hợp c&aacute;c &yacute; kiến để giải quết vấn đề.</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(5) Thư k&yacute;: Người đảm nhiệm c&ocirc;ng việc điểm danh c&aacute;c th&agrave;nh phần tham gia v&agrave; ghi ch&eacute;p c&aacute;c th&ocirc;ng tin trong cuộc họp, lập bi&ecirc;n bản họp.</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(6) Th&agrave;nh phần kh&aacute;c: C&oacute; thể l&agrave; đại diện c&aacute;c ph&ograve;ng ban hoặc nh&acirc;n vi&ecirc;n, người c&oacute; li&ecirc;n quan tới chủ đề của cuộc họp.</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(7) Nội dung cuộc họp: Đ&acirc;y l&agrave; phần quan trọng nhất m&agrave; thư k&yacute; cần lưu &yacute; khi viết bi&ecirc;n bản cuộc họp bởi thư k&yacute; sẽ l&agrave; người quan s&aacute;t v&agrave; ghi ch&eacute;p những g&igrave; diễn ra trong cuộc họp (c&aacute;c vấn đề được tr&igrave;nh b&agrave;y, thảo luận; những &yacute; kiến ph&aacute;t biểu của c&aacute;c th&agrave;nh vi&ecirc;n tham gia,&hellip;)</span></p>
+ <p><span style="font-family: 'times new roman', times, serif;">(8) Kết luận cuộc họp: Người chủ tr&igrave; cuộc họp căn cứ c&aacute;c nội dung đ&atilde; được trao đổi v&agrave; thống nhất th&ocirc;ng qua biểu quyết (nếu c&oacute;) để đưa ra quyết định.</span></p>

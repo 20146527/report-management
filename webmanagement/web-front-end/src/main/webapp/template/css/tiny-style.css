@@ -1,0 +1,33 @@
+html{
+    background: #e6e6e6;
+}
+.A4{
+    width: 21cm;
+    margin: auto;
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #c6c6c6;
+    min-height: 21cm;
+    background: white;
+}
+
+.full90{
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 5px;
+    border: solid 1px #c6c6c6;
+    min-height: 21cm;
+    background: white;
+}
+
+.full95{
+    width: 95%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 5px;
+    border: solid 1px #c6c6c6;
+    min-height: 21cm;
+    background: white;
+}

@@ -1,0 +1,1648 @@
+{
+  "last": [
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 0,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "p",
+      "key": "TDZ",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 1,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "c",
+      "key": "TSZ",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 2,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "t",
+      "key": "D",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 3,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "u",
+      "key": "GS",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 4,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ch",
+      "key": "TSZ",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 5,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "i",
+      "key": "G",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 6,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "y",
+      "key": "G",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 7,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ng",
+      "key": "TS",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 8,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "nh",
+      "key": "TS",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 9,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "m",
+      "key": "TD",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 10,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "n",
+      "key": "GD",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 11,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "o",
+      "key": "GS",
+      "status": 0
+    }
+  ],
+  "main": [
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 0,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uổ",
+      "key": "RAEUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 1,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uỗ",
+      "key": "AOEUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 2,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ă",
+      "key": "*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 3,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uộ",
+      "key": "AEUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 4,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uờ",
+      "key": "RURL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 5,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uở",
+      "key": "RAURL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 6,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "õa",
+      "key": "AOUPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 7,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uâ",
+      "key": "*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 8,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "õe",
+      "key": "AOEPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 9,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uê",
+      "key": "ERL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 10,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uô",
+      "key": "EUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 11,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oắ",
+      "key": "O*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 12,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oằ",
+      "key": "R*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 13,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oẳ",
+      "key": "RA*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 14,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oẵ",
+      "key": "AO*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 15,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oặ",
+      "key": "A*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 16,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ĩ",
+      "key": "AOEFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 17,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ướ",
+      "key": "OUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 18,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ườ",
+      "key": "RUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 19,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ưở",
+      "key": "RAUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 20,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ũy",
+      "key": "AOEFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 21,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ưỡ",
+      "key": "AOUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 22,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ượ",
+      "key": "AUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 23,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ụy",
+      "key": "AEFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 24,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ọa",
+      "key": "AUPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 25,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ọe",
+      "key": "AEPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 26,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "a",
+      "key": "UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 27,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "e",
+      "key": "EPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 28,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ũ",
+      "key": "REUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 29,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "i",
+      "key": "EFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 30,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "o",
+      "key": "EUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 31,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ủy",
+      "key": "RAEFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 32,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỏa",
+      "key": "RAUPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 33,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oă",
+      "key": "*UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 34,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỏe",
+      "key": "RAEPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 35,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "u",
+      "key": "EUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 36,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iế",
+      "key": "OEFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 37,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iề",
+      "key": "REFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 38,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iể",
+      "key": "RAEFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 39,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iễ",
+      "key": "AOEFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 40,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iệ",
+      "key": "AEFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 41,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyế",
+      "key": "OEFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 42,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyề",
+      "key": "REFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 43,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyể",
+      "key": "RAEFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 44,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ùy",
+      "key": "REFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 45,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyễ",
+      "key": "AOEFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 46,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ạ",
+      "key": "AUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 47,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "iê",
+      "key": "EFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 48,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ơ",
+      "key": "URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 49,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyệ",
+      "key": "AEFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 50,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ả",
+      "key": "RAUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 51,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uy",
+      "key": "EFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 52,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ấ",
+      "key": "O*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 53,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ầ",
+      "key": "R*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 54,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẩ",
+      "key": "RA*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 55,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẫ",
+      "key": "AO*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 56,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ậ",
+      "key": "A*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 57,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ắ",
+      "key": "O*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 58,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "òa",
+      "key": "RUPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 59,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ư",
+      "key": "UFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 60,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ằ",
+      "key": "R*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 61,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẳ",
+      "key": "RA*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 62,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "òe",
+      "key": "REPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 63,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẵ",
+      "key": "AO*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 64,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ặ",
+      "key": "A*UPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 65,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẹ",
+      "key": "AEPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 66,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẻ",
+      "key": "RAEPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 67,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ẽ",
+      "key": "AOEPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 68,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ế",
+      "key": "OERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 69,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "úy",
+      "key": "OEFL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 70,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ề",
+      "key": "RERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 71,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ể",
+      "key": "RAERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 72,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ễ",
+      "key": "AOERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 73,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ệ",
+      "key": "AERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 74,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uyê",
+      "key": "EFRL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 75,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỉ",
+      "key": "RAEFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 76,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ị",
+      "key": "AEFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 77,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uơ",
+      "key": "URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 78,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ọ",
+      "key": "AEUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 79,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "óa",
+      "key": "OUPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 80,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỏ",
+      "key": "RAEUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 81,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uấ",
+      "key": "O*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 82,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ố",
+      "key": "OEURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 83,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "óe",
+      "key": "OEPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 84,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uầ",
+      "key": "R*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 85,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oa",
+      "key": "UPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 86,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ồ",
+      "key": "REURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 87,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uẩ",
+      "key": "RA*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 88,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ổ",
+      "key": "RAEURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 89,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uẫ",
+      "key": "AO*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 90,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "oe",
+      "key": "EPL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 91,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỗ",
+      "key": "AOEURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 92,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uậ",
+      "key": "A*URL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 93,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ộ",
+      "key": "AEURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 94,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ớ",
+      "key": "OURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 95,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ờ",
+      "key": "RURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 96,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ở",
+      "key": "RAURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 97,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "à",
+      "key": "RUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 98,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ỡ",
+      "key": "AOURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 99,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "á",
+      "key": "OUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 100,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "â",
+      "key": "*URB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 101,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ợ",
+      "key": "AURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 102,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ã",
+      "key": "AOUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 103,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ụ",
+      "key": "EUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 104,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ủ",
+      "key": "EUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 105,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "è",
+      "key": "REPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 106,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "é",
+      "key": "OEPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 107,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ứ",
+      "key": "OUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 108,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uế",
+      "key": "OERL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 109,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ê",
+      "key": "ERB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 110,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ừ",
+      "key": "RUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 111,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ì",
+      "key": "REFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 112,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uề",
+      "key": "RERL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 113,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "í",
+      "key": "OEFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 114,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ử",
+      "key": "RAUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 115,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ữ",
+      "key": "AOUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 116,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ự",
+      "key": "AUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 117,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ươ",
+      "key": "UFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 118,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ò",
+      "key": "REUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 119,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uệ",
+      "key": "AERL",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 120,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ó",
+      "key": "OEUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 121,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ô",
+      "key": "EURB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 122,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "õ",
+      "key": "AOEUPB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 123,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ù",
+      "key": "EUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 124,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ú",
+      "key": "EUFB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 125,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uố",
+      "key": "OEUFRB",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 126,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "uồ",
+      "key": "REUFRB",
+      "status": 0
+    }
+  ],
+  "first": [
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 0,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ngh",
+      "key": "KP",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 1,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "đ",
+      "key": "SW",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 2,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "kh",
+      "key": "SP",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 3,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "gh",
+      "key": "TP",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 4,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "b",
+      "key": "SH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 5,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "c",
+      "key": "P",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 6,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "d",
+      "key": "TW",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 7,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ch",
+      "key": "PH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 8,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "g",
+      "key": "TP",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 9,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "h",
+      "key": "H",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 10,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "k",
+      "key": "P",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 11,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "l",
+      "key": "TPH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 12,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "m",
+      "key": "KH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 13,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "n",
+      "key": "KW",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 14,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "q",
+      "key": "P",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 15,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "r",
+      "key": "TK",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 16,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "s",
+      "key": "S",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 17,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "t",
+      "key": "W",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 18,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "th",
+      "key": "STH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 19,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "v",
+      "key": "TH",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 20,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ph",
+      "key": "ST",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 21,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "x",
+      "key": "SK",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 22,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "ng",
+      "key": "KP",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 23,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "nh",
+      "key": "PW",
+      "status": 0
+    },
+    {
+      "creDate": "2019-12-13 11:24:42.99",
+      "idCode": 24,
+      "modUser": "",
+      "creUser": "",
+      "modeDate": "2019-12-13 11:24:42.99",
+      "value": "tr",
+      "key": "WH",
+      "status": 0
+    }
+  ]
+}

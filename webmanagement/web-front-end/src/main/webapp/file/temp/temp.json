@@ -1,0 +1,24 @@
+{
+  "transcript_info": [
+    {
+      "key": 1,
+      "seq": 1,
+      "idSpeaker": "ID001",
+      "timeStart": 2.76,
+      "timeEnd": 3.93,
+      "text": "Kính",
+      "reliabilityID": 70,
+      "reliabilityText": 64.0
+    },
+    {
+      "key": 1,
+      "seq": 2,
+      "idSpeaker": "ID001",
+      "timeStart": 4.1,
+      "timeEnd": 4.27,
+      "text": "thưa",
+      "reliabilityID": 70,
+      "reliabilityText": 68.0
+    }
+  ]
+}

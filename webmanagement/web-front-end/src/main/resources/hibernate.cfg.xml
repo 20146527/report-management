@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.password">145632</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/ubnd?autoReconnect=true&amp;characterEncoding=utf-8&amp;useUnicode=true&amp;connectionCollation=utf8_general_ci&amp;characterSetResults=utf8</property>
+        <property name="hibernate.connection.username">user</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <property name="hibernate.connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>
+        <property name="hibernate.c3p0.min_size">1</property>
+        <property name="hibernate.c3p0.max_size">20</property>
+        <property name="hibernate.c3p0.timeout">100</property>
+        <property name="hibernate.c3p0.max_statements">10</property>
+
+        <mapping class="ubnd.core.persistence.data.entity.RoleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.UserEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.RoomEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.SpeakerEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.AudioSampleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.DictStenoEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.MeetingEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.SessionEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.DutyEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.AttendeesEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.RecordEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.StenographyEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.ReportEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.TemplateEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.EquipmentEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.TranscriptEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.ConfigEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.ModuleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.UserModuleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.OperatorEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.ObjectEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.RolePermissionEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.UserRoleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.RoleModuleEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.ExtendPermissionUserEntity"/>
+        <mapping class="ubnd.core.persistence.data.entity.NotificationEntity"/>
+    </session-factory>
+
+</hibernate-configuration>

@@ -1,0 +1,12 @@
+.btn:focus {
+    outline: none;
+}
+
+.size {
+    height: 42px;
+    width: 42px;
+}
+
+.none {
+    display: none;
+}
